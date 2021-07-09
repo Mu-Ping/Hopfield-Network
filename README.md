@@ -98,6 +98,3 @@ W訓練一次就完成了!! 。另外此處與簡介倒數第二點所提的公�
 而當 <img src="https://render.githubusercontent.com/render/math?math=x(n) = x(n%2B1)">則聯想過程停止。
 
 > 有興趣可參考國立聯合大學-陳士杰老師的講義，附件中的「Hopfield intro」pdf
-
-@author： [Mu-Ping](https://github.com/Mu-Ping)  
-@e-mail： k0326jim@gmail.com
