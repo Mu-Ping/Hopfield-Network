@@ -42,7 +42,7 @@ def readdata():
     data_format_tuple = [(basic, 12, basic_word),(bonus, 10, bonus_word)]
     for data_format in data_format_tuple:
         for file_name in data_format[0]:
-            with open(os.getcwd()+'/Hopfield_dataset/'+ file_name, 'r', encoding='UTF-8') as file:
+            with open(os.getcwd()+'/DataSet/'+ file_name, 'r', encoding='UTF-8') as file:
                 eachfile_data=[]
                 eachdata=""
                 row=0
